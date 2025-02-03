@@ -29,3 +29,6 @@
 	path = keyboards/keychron
 	url = https://github.com/Keychron/qmk_firmware.git
 	branch = wireless_playground
+[submodule "keyboards/royal_kludge_r75"]
+	path = keyboards/royal_kludge_r75
+	url = https://github.com/snakkarike/Royal-Kludge-R75.git
